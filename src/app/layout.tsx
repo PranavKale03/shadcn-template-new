@@ -7,8 +7,8 @@ const openSans = Open_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Zen",
-  description: "Copyrights reserved.",
+  title: "Falcon Developers",
+  description: "© Falcon Developers 2K25",
 };
 
 export default function RootLayout({
