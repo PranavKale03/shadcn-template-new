@@ -16,7 +16,7 @@ Make sure you have the following installed:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/my-app.git
+    git clone https://github.com/PranavKale03/shadcn-template-new.git
     ```
 
 2. Navigate to the project directory:
